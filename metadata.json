@@ -1,0 +1,6 @@
+{
+  "name": "时间密信",
+  "description": "悄悄话打包加密小工具，可设置限时解密条件与伪装文本，隐秘分享与解封。",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
